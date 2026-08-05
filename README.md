@@ -13,5 +13,5 @@ PHP · PHP Sessions · JSON file storage
 
 ## Setup
 1. Place `HigherLower.php` in a PHP-enabled server directory (e.g. XAMPP's `htdocs`)
-2. Ensure the `data/` folder is writable — the highscore JSON file is created automatically on first win
+2. Ensure the `data/` folder is writable - the highscore JSON file is created automatically on first win
 3. Open the file in a browser and start guessing
